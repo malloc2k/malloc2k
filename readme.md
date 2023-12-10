@@ -1,0 +1,3 @@
+Nothing much to say about myself...
+
+Experienced at C# and JS and starting to get good at C++ :)
