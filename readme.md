@@ -4,11 +4,17 @@
 
 ---
 
-### Nothing much to say about myself...
+### Currently learning C++ (focused on game hacking), highly experienced at C# , JS, HTML and CSS
 
-Experienced at C# and JS and starting to get good at C++ :)
+#Apart from these main languages I also know a bit about everything like: Rust, C, Go and so on.
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malloc2k&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true" alt="Your GitHub Stats" />
+</div>
+
+--- 
 
 ### Languages I know:
 
