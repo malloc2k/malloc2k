@@ -6,7 +6,7 @@
 
 ### Currently learning C++ (focused on game hacking), highly experienced at C# , JS, HTML and CSS
 
-#Apart from these main languages I also know a bit about everything like: Rust, C, Go and so on.
+# Apart from these main languages I also know a bit about everything like: Rust, C, Go and so on.
 
 ---
 
