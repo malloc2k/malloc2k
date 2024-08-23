@@ -25,3 +25,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="90" height="90"/>&nbsp;  
          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="90" height="90"/>&nbsp;    
 </div>
+
+---
+
+
+<div align="center">
+  <img src = "https://komarev.com/ghpvc/?username=malloc2k"/>
+</div>
