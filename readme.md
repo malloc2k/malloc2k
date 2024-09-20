@@ -12,7 +12,7 @@
 
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="75" height="75"/>&nbsp;&nbsp; 
