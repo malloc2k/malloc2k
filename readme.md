@@ -12,7 +12,7 @@
 
 ---
 
-### Languages I know:
+### :hammer_and_wrench: Languages and Tools :
 
 <div id="languages" align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="90" height="90"/>&nbsp; 
