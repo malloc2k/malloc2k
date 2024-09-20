@@ -3,15 +3,9 @@
 </div>
 
 ---
-
 <div id="subheader" align="center">
-
 # Currently learning C++ (focused on game hacking)
-
- Apart from these main languages I also know a bit about everything like: Rust, C, Go and so on.
-
 </div>
-
 ---
 
 ### Languages I know:
