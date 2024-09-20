@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malloc2k&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&icon_color=c43011" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malloc2k&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&icon_color=c43011&cache_seconds=1800" alt="Your GitHub Stats" />
 </div>
 
 ---
