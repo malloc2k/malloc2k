@@ -22,7 +22,7 @@
 
 ### Languages I know:
 
-<div>
+<div id="languages" align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="90" height="90"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="90" height="90"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="90" height="90"/>&nbsp;
