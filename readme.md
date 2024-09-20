@@ -6,9 +6,7 @@
 
 ---
 
-<div align="center">
-  #Currently learning C++ (focused on game hacking)
-</div>
+  # Currently learning C++ (game hacking)
 
 ---
 
