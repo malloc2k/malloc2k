@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi%2C+im+malloc2k" alt="Typing SVG" /></a>
 </div>
 
----
 
 <div id="subheader" align="center">
   
@@ -27,8 +26,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malloc2k&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true" alt="Your GitHub Stats" />
 </div>
-
----
 
 
 <div align="center">
