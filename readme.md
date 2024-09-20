@@ -3,9 +3,13 @@
 </div>
 
 ---
+
 <div id="subheader" align="center">
+  
 # Currently learning C++ (focused on game hacking)
+
 </div>
+
 ---
 
 ### Languages I know:
