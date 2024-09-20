@@ -6,7 +6,11 @@
 
 ---
 
+<div align="center">
+
   # Currently learning C++ (game hacking)
+
+</div>
 
 ---
 
