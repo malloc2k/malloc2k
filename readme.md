@@ -25,7 +25,7 @@
 --- 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malloc2k&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&theme=shadow_red" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malloc2k&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Your GitHub Stats" />
 </div>
 
 <div align="center">
