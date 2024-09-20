@@ -17,6 +17,7 @@
   # Currently learning C++ (focused on game hacking)
 </div>
 
+</style>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
