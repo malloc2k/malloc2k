@@ -19,7 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="85" height="85"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="85" height="85"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="85" height="85"/>&nbsp;&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="85" height="85"/>&nbsp;&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="85" height="85"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="85" height="85"/>&nbsp;&nbsp;
 </div>
 
 --- 
