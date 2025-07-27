@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  # Currently learning C++ (game hacking)
+  # Currently learning C++
 
 </div>
 
